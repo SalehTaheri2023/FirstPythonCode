@@ -1,0 +1,4 @@
+How to comment multiple line in python:
+1- Select the lines of code you want to comment out.
+2- Press Ctrl + / on Windows or Command + / on Mac to toggle line comments.
+3- Alternatively, you can press Ctrl + Shift + / to toggle block comments.
