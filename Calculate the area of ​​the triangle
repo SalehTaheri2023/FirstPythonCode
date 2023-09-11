@@ -1,0 +1,8 @@
+Simple code in #Python
+Calculate the area of ​​the triangle in #Python:
+base = int(input("base="))
+height = int(input("height="))
+print("base is = ", base)
+print("height is =", height)
+area = int(base*height)/2
+print("area is = ", int(area))
